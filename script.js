@@ -83,3 +83,8 @@ $(document).ready(function(){
     window.addEventListener('load', headerScrolled)
     onscroll(document, headerScrolled)
   }
+
+
+  document.addEventListener('DOMContentLoaded', function() {
+    AOS.init();
+  });
