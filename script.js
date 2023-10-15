@@ -84,6 +84,7 @@ $(document).ready(function(){
     onscroll(document, headerScrolled)
   }
 
+  
 
   document.addEventListener('DOMContentLoaded', function() {
     AOS.init();
