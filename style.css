@@ -23,11 +23,12 @@ a{
 # hero
 --------------------------------------------------------------*/
 .bck{
-    background-image: url('./assets/background.jpg');
+    background-image: url('./assets/background1.webp');
+    background-color: #111827;
     height: 100vh;
-    background-position: center;
+    /* background-position: center; */
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     display: flex;
     align-items: center;
     justify-content: center;
